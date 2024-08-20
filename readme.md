@@ -1,3 +1,6 @@
+> [!NOTE]
+> Archived 20th August 2024 as this is no longer supported
+
 Trello filtered card count ext.
 ========================
 
